@@ -1,3 +1,3 @@
 # My App
 
-Este es un ejemplo de Readme
+Este es un ejemplo de Readme. Parte faltante
